@@ -1,16 +1,13 @@
-# recipe_list_app
+## Flutter Recipe App
 
-A new Flutter project.
+Generate meal plans and fetch recipes through an API call for any food item by choosing total calories required and type of diet.
 
-## Getting Started
+## Get Started
 
-This project is a starting point for a Flutter application.
+1) create and verify a free account at https://spoonacular.com/food-api
+2) copy and paste the API_KEY into the project
+3) Run pub dev to import the external packages
+4) Allow internet connection to the Android virtual device 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
