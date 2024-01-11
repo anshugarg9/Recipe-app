@@ -18,7 +18,7 @@ class ApiService {
 
   //Add base URL for the spoonacular API, endpoint and API Key as a constant
   final String _baseURL = 'api.spoonacular.com';
-  static const String API_KEY ='8890f15b3440447283d8ccbfcf186c4f';
+  static const String API_KEY =' '; //Paste your API key here
 
   //We create async function to generate meal plan which takes in
   //timeFrame, targetCalories, diet and apiKey
